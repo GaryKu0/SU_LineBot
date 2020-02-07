@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## SU 的網站.w.
 
-You can use the [editor on GitHub](https://github.com/GaryKu0/LineBot/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+來到這邊應該就是要尋找一些關於Line機器人_半垢的吧.w.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+本人自己不是特別的厲害(超菜) 所以從別人不要的半垢檔學並補齊了他們不想透漏的功能XDDD
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 此半垢僅提供這些
 
-```markdown
-Syntax highlighted code block
+其他資料需要請按上方的**view on git hub**
 
-# Header 1
-## Header 2
-### Header 3
+### 以下是我修改的bot.py
 
-- Bulleted
-- List
+很長請注意!(原本應為顯示在下面,現改為載點)
+ 
+下載載點:[點我](http://sutw.xyz/linebotpydow)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GaryKu0/LineBot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+密碼是: **toast**
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+Having trouble with Pages? Check out our [Line](https://line.me/ti/p/~bat920301) or [contact support](mailto:su@sutw.xyz) and we’ll help you sort it out.
