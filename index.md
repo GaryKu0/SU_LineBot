@@ -7,7 +7,7 @@
 
 ### 此半垢僅提供這些
 
-其他資料需要請按上方的**view on git hub**
+其他資料需要請按上方的**view on GitHub**
 
 ### 以下是我修改的bot.py
 
