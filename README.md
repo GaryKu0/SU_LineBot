@@ -3,7 +3,7 @@
 都是用別人不要的檔案補齊的.w.
 
 ## 此bot運行在**Android**
-
+大頭貼版:https://www.sususu.su/youtube無時間限制版/
 在TERMUX打下這幾行
 
 - apt update 
