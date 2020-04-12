@@ -19,4 +19,4 @@
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [Line](https://line.me/ti/p/~bat920301) or [contact support](mailto:su@sutw.xyz) and we’ll help you sort it out.
+Having trouble with Pages? Check out our Line(暫停支援) or [contact support](mailto:su@sususu.su) and we’ll help you sort it out.
